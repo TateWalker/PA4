@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+#mac os
+.DS_Store
+.bash_profile/
+
 # Compiled Object files
 *.slo
 *.lo
